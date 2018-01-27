@@ -1,0 +1,14 @@
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\Ciris V3.exe
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\Ciris V3.pdb
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\FastColoredTextBox.dll
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\MaterialSkin.dll
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\Teen.dll
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\bin\Debug\WeAreDevs_API.dll
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris V3.csprojResolveAssemblyReference.cache
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris_V3.Form1.resources
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris_V3.Properties.Resources.resources
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris V3.csproj.GenerateResource.Cache
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris V3.csproj.CoreCompileInputs.cache
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris V3.exe
+C:\Users\cameron\Desktop\Trash Can\Trash 2\Ciris V3\obj\Debug\Ciris V3.pdb
