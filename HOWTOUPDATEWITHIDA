@@ -1,0 +1,20 @@
+Choose the ones that need to be updated. Thanks. 
+-Moltres
+
+
+- lua_getfield (With 3 args) – "isdst” – Pseudocode look for sub_xxxxxx(a2, -2, "isdst”)
+- lua_setfield – "noise” – Pseudocode look for sub_xxxxxx(a1, -2, "noise”)
+- lua_tolstring – "Unprotected error in call to Lua API (%s)\n” – Pseudocode look for v1 = sub_xxxxxx(a1, -1, 0);
+- lua_settop – "name conflict for module '%s'" – Disassembly view, sub_xxxxxx 1st call
+- lua_toboolean  "%s: %p” –  Pseudocode look for case 3: v6=sub_xxxxxx(a1, 1)
+- lua_pushvalue - "__index" - Disassembly First Call
+- lua_pushnumber - "huge" - Pseudocode look for sub_xxxxxx(a1, qword_xxxxxx); above sub_xxxxxx(a1, -2, "huge");
+- lua_pushstring - "The metatable is locked" - Pseudocode look for sub_xxxxxx(a1, "The metatable is locked");
+- lua_pcall - "*** value not found ***" - Pseudocode look for if (sub_xxxxxx(v10, 0, 1, 0))
+- lua_pushnil - "foreach" - Sub below the foreach offset, Pseudocode for sub_xxxxxx(a1); above if (sub_xxxxxx(a1, 1))
+- lua_next - "foreach" - Sub below the foreach offset, Psuedocode for if (sub_xxxxxx(a1, 1))
+- lua_pushboolean - "collect" - Pseudocode look for sub_xxxxxx(a1, v5); in the else if statement
+- lua_tonumber - "tables cannot be cyclic" - Pseudocode look for case 2: v47 = sub_xxxxxx(a1, v7);
+- lua_getmetatable - "value expected" - Pseudocode find if ( sub_xxxxxx(a1, 1) )
+- lua_type - "tables cannot be cyclic" - Pseudocode look for switch ( sub_xxxxxx(a1, a2) )
+- penvcheck - "isdst", pick first call scrolling down the string (IDA VIEW), SCROLL, find dword_XXXXXXX, 200000h, PRESS X ON THE DWORD, find 3800000h double click, find the jz and take the .text address and remove zeros.
