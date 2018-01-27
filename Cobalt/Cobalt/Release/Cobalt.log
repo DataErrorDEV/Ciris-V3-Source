@@ -1,0 +1,44 @@
+﻿  dllmain.cpp
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Main.cpp(2): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\shared\SDKDDKVer.h(213): note: see previous definition of '_WIN32_WINNT'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(207): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(208): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(305): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(318): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(333): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(342): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(356): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(360): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(377): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(406): warning C4002: too many actual parameters for macro 'rbx_tostring'
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Functions.h(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(1500): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(1501): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2492): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2493): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2517): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2518): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2541): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2542): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2567): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2568): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2591): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2592): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2615): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(2616): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(3041): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\Commands.h(3042): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(70): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(71): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(72): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(78): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(79): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\metamethods.h(80): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\LFunctions.h(20): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\LFunctions.h(115): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\LFunctions.h(116): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+c:\users\cameron\desktop\trash can\cobaltv2-source-master\cobalt\cobalt\LFunctions.h(118): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'C:\vsBuildFiles\libcurl_a.lib'
